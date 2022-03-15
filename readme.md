@@ -5,30 +5,30 @@
 1. 設置環境
 
 
-    1. 初始化npm
+初始化npm
     ```
     $ npm init
     ```
-    1. 安裝remixd
+安裝remixd
     ```
     $ npm install –g @ remix-project/remixd
     ```
-    1. 安裝openzeppelin/contract資料庫
+安裝openzeppelin/contract資料庫
     ```
     $ npm install @openzeppelin/contracts
     ```
-    1. 安裝Web3套件
+安裝Web3套件
     ```
     $ npm install Web3
     ```
-    1. 啟動remix在本機的路徑
+啟動remix在本機的路徑
     ```
     $remixd -s <本機路徑> --remix-ide <remix線上網址>
     ```
 
-2. Remix編譯及部署
+1. Remix編譯及部署
 
     ### 1. Workspace連線至本機 
     ### 2. 建立 ERC721.sol
 
-3. JavaScript
+2. JavaScript
