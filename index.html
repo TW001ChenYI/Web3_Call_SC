@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>International_Demo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+        <h2>Account: <span class="showAccount"/></h2>
+        balance wallet:<input type="text" name="balance_wallet" id="balance_wallet" value=""><br>
+        <button onclick="balanceOf()" class="balance">balance</button><br>
+        <h1 id="balance_res"></h1>
+
+        mint_to:<input type="text" name="mint_wallet" id="mint_wallet" value=""><br>
+        <button onclick="mint()" class="mint">mint</button><br>
+        <h1 id="mint_res"></h1>
+
+        <script src="./node_modules/web3/dist/web3.min.js"></script>
+        <script src="./index.js"></script>
+    </body>
+</html>
