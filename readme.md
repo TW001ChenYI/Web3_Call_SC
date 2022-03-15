@@ -4,11 +4,11 @@
 
 1. 設置環境
     1. 初始化npm <br>
-    `npm init`
+    $`npm init`
     2. 安裝remixd
-    `npm install –g @ remix-project/remixd `
+    $`npm install –g @ remix-project/remixd `
     3. 安裝openzeppelin/contract資料庫
-    `npm install @openzeppelin/contracts`
+    $`npm install @openzeppelin/contracts`
 
 2. Remix編譯及部署
 3. JavaScript
