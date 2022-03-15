@@ -24,9 +24,9 @@
     $remixd -s <本機路徑> --remix-ide <remix線上網址>
     ```
 
-## 2. Remix編譯及部署
+2. Remix編譯及部署
 
     ### 1. Workspace連線至本機 
     ### 2. 建立 ERC721.sol
 
-## 3. JavaScript
+3. JavaScript
