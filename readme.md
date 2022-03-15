@@ -2,7 +2,7 @@
 ## 作者:TW001ChenYI
 ### 有提供PPT步驟教學
 
-## 1. 設置環境
+1. 設置環境
 
 
     1. 初始化npm
@@ -26,7 +26,7 @@
     $remixd -s <本機路徑> --remix-ide <remix線上網址>
     ```
 
-## 2. Remix編譯及部署
+2. Remix編譯及部署
 
     ### 1. Workspace連線至本機 
     ### 2. 建立 ERC721.sol
