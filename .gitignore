@@ -1,2 +1,11 @@
 ## node_modules
-./node_modules
+/node_modules
+/package-lock.json
+/package.json
+
+## Mac
+.DS_Store
+
+## git
+.gitignore
+
